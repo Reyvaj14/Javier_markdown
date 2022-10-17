@@ -25,3 +25,10 @@ realizado como se muestra arriba
 ![alt text](fotos/10.png)
 ### Crea un tag llamado v0.1
 ![alt text](fotos/11.png)
+### Sube los cambios al repositorio remoto
+![alt text](fotos/12.png)
+### Por último, crea una tabla en el documento anterior en el que se muestre el nombre de 2 compañeros y su enlace al repositorio en GitLab o GitHub
+| Nombre | Pagina |
+| ----------- | ----------- |
+| Tania | https://github.com/TaniaEF/TANIA_markdown |
+| Adrian | https://github.com/AdriMedia/DAW215_Markdown |
