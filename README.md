@@ -12,4 +12,16 @@ con el notepad++ creo el documento
 ### Subir los cambios al repositorio remoto
 `$ git push`
  ![alt text](fotos/4.png)
- ###Crear un fichero privado.txt y una carpeta privado
+### Crear un fichero privado.txt y una carpeta privado
+![alt text](fotos/5.png)
+###  Realizar los cambios oportunos para que tanto el archivo como la carpeta sean ignorados por git
+![alt text](fotos/6.png)
+![alt text](fotos/7.png)
+![alt text](fotos/8.png)
+![alt text](fotos/9.png)
+### Documenta los puntos e) f) y g) en el fichero README.md
+realizado como se muestra arriba
+### Añade el fichero tunombre.md en el que se muestre un listado de los módulos en los que estás matriculado
+![alt text](fotos/10.png)
+### Crea un tag llamado v0.1
+![alt text](fotos/11.png)
